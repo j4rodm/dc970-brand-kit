@@ -166,4 +166,4 @@ Palette: High-Voltage Yellow v1.0
 | Version | Date | Changes |
 |---------|------|---------|
 | v1.0 | 2026-05-15 | Initial brand kit — sourced from dc970.org live site |
-| v1.1 | 2026-05-15 | Replaced Inter with Space Grotesk to eliminate overlap with JarodM brand |
+| v1.1 | 2026-05-15 | Replaced Inter with Space Grotesk to eliminate overlap with template brand |
